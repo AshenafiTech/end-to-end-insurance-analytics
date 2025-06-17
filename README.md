@@ -6,7 +6,7 @@ This project analyzes historical car insurance claim data for AlphaCare Insuranc
 
 1. Clone the repository:
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/AshenafiTech/end-to-end-insurance-analytics.git
    ```
 2. Install dependencies:
    ```
